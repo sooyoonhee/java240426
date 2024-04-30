@@ -15,7 +15,7 @@ public class WhileExample {
 		Scanner scanner = new Scanner(System.in);
 		int n = scanner.nextInt();
 		
-//		n이 -1이 아닐때까지 반복
+//		n이 -1일때까지 반복
 		while (n != -1) {
 //			sum = sum+n;
 			sum += n;//위 주석과 같은 방법

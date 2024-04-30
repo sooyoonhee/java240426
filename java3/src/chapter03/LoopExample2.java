@@ -15,5 +15,6 @@ public class LoopExample2 {
 			System.out.println(n+"*"+i+"="+n*i);
 			i++;
 		}
+		scanner.close();
 	}
 }
