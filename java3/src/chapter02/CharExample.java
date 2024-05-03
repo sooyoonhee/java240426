@@ -11,7 +11,9 @@ public class CharExample {
 	char c4= '가';
 	char c5= 44032;
 	char c6= '\uac00';
-	
+
+char c10=(char)((int)c1+1);	
+	System.out.println(c10);
 	System.out.println(c1);
 	System.out.println(c2);
 	System.out.println(c3);
