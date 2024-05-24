@@ -1,6 +1,6 @@
 package chapter05;
 
-public class InstanceoofExample {
+public class InstanceOfExample {
 	public static void method1(Parent parent) {
 //		Parent parent = new Child(); => child 객체를 판단
 //		instanceof : 객체가 해당 클래스 타입인지 판단(참/거짓)
